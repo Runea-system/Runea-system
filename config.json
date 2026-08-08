@@ -1,0 +1,24 @@
+{
+  "site": {
+    "name": "Runea",
+    "url": "https://runea.fun/",
+    "tagline": "Run your business in one place.",
+    "description": "The calm operating system for independent businesses.",
+    "locale": "en_US",
+    "themeColor": "#193b31",
+    "backgroundColor": "#f7f8f3"
+  },
+  "assets": {
+    "favicon": "https://runea.fun/runea-icon.png",
+    "logo": "https://runea.fun/runea-logo.png",
+    "ogImage": "https://runea.fun/og-image.jpg"
+  },
+  "social": {
+    "x": "https://x.com/Runeaone"
+  },
+  "seo": {
+    "canonical": "https://runea.fun/",
+    "sitemap": "https://runea.fun/sitemap.xml",
+    "robots": "https://runea.fun/robots.txt"
+  }
+}

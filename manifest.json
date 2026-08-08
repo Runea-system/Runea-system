@@ -1,0 +1,19 @@
+{
+  "name": "Runea",
+  "short_name": "Runea",
+  "description": "Run your business in one place.",
+  "start_url": "https://runea.fun/",
+  "scope": "https://runea.fun/",
+  "display": "standalone",
+  "background_color": "#f7f8f3",
+  "theme_color": "#193b31",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "https://runea.fun/runea-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

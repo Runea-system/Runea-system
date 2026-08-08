@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Runea",
+  "url": "https://runea.fun/",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web",
+  "description": "The calm operating system for independent businesses. Invoices, quotes, proposals, projects, expenses and cashflow in one workspace.",
+  "offers": {
+    "@type": "AggregateOffer",
+    "lowPrice": "0",
+    "highPrice": "19",
+    "priceCurrency": "EUR",
+    "offerCount": "3"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Runea",
+    "url": "https://runea.fun/",
+    "logo": "https://runea.fun/runea-logo.png",
+    "sameAs": [
+      "https://x.com/Runeaone"
+    ]
+  },
+  "image": "https://runea.fun/og-image.jpg"
+}
